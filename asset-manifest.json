@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/does-the-dog-die/static/css/main.c3bb9cda.chunk.css",
+    "main.js": "/does-the-dog-die/static/js/main.ae2465d3.chunk.js",
+    "main.js.map": "/does-the-dog-die/static/js/main.ae2465d3.chunk.js.map",
+    "runtime~main.js": "/does-the-dog-die/static/js/runtime~main.9f3da749.js",
+    "runtime~main.js.map": "/does-the-dog-die/static/js/runtime~main.9f3da749.js.map",
+    "static/js/2.579831fc.chunk.js": "/does-the-dog-die/static/js/2.579831fc.chunk.js",
+    "static/js/2.579831fc.chunk.js.map": "/does-the-dog-die/static/js/2.579831fc.chunk.js.map",
+    "index.html": "/does-the-dog-die/index.html",
+    "precache-manifest.a1fcb9db59cc45e780f66e98e25573a9.js": "/does-the-dog-die/precache-manifest.a1fcb9db59cc45e780f66e98e25573a9.js",
+    "service-worker.js": "/does-the-dog-die/service-worker.js",
+    "static/css/main.c3bb9cda.chunk.css.map": "/does-the-dog-die/static/css/main.c3bb9cda.chunk.css.map",
+    "static/media/App.css": "/does-the-dog-die/static/media/portraitscript-regular-webfont.b0c9f306.woff",
+    "static/media/dog-1.jpg": "/does-the-dog-die/static/media/dog-1.10a0a721.jpg"
+  }
+}
