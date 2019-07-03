@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc7d332c4582c00013715dea149149c0",
+    "revision": "8a98ea3f923f3edf8ba7d87a44051bed",
     "url": "/does-the-dog-die/index.html"
   },
   {
-    "revision": "d887ff00ad58787cbcd5",
-    "url": "/does-the-dog-die/static/css/main.c3bb9cda.chunk.css"
+    "revision": "0f84c739837c03f512ce",
+    "url": "/does-the-dog-die/static/css/main.9f093c84.chunk.css"
   },
   {
     "revision": "853ccc33717cf1cbbdff",
     "url": "/does-the-dog-die/static/js/2.579831fc.chunk.js"
   },
   {
-    "revision": "d887ff00ad58787cbcd5",
-    "url": "/does-the-dog-die/static/js/main.ae2465d3.chunk.js"
+    "revision": "0f84c739837c03f512ce",
+    "url": "/does-the-dog-die/static/js/main.cc2fa884.chunk.js"
   },
   {
     "revision": "838132ff8a1752fcf2d8",

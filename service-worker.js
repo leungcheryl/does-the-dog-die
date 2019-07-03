@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/does-the-dog-die/precache-manifest.a1fcb9db59cc45e780f66e98e25573a9.js"
+  "/does-the-dog-die/precache-manifest.53f5312c53bf8e9bec9cd724396d7886.js"
 );
 
 self.addEventListener('message', (event) => {
