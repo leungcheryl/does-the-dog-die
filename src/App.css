@@ -285,3 +285,52 @@ p.dog {
     padding-bottom: 3%;
     letter-spacing: 2px;
 }
+
+@media (max-width: 1000px) {
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 800px) {
+    .header-container {
+        background-position: 50% 80%;
+        background-size: 55%;
+    }
+
+    .header {
+        text-align: center;
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    .header-container {
+        background-size: 70%;
+    }
+}
+
+@media (max-width: 470px) {
+    .header-container {
+        background-size: 95%;
+    }
+
+    h1 {
+        font-size: 3.3rem;
+    }
+
+    .scroll-note {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 384px) {
+    .header-container {
+        background-size: 95%;
+    } 
+}

@@ -24,6 +24,7 @@ class App extends Component {
   _isMounted = false
 
   componentDidMount() {
+    document.title = "Does the Dog Die? (in the movie)"
     const movieInput = this.state.userInput;
     axios.get(
         'https://cors-anywhere.herokuapp.com/https://www.doesthedogdie.com/search?',
@@ -173,8 +174,8 @@ class App extends Component {
 
       <div className="header-container">
         <div className="header">
-          <h1>Protect Dogs at All Costs!</h1>
-          <h2>Movie Edition</h2>
+          <h1>Does the dog die?</h1>
+          <h2>(in the movie)</h2>
         </div>
         <div className='scroll-note'>
           <p>Scroll Down To Search a Movie <span>&#9660;</span>

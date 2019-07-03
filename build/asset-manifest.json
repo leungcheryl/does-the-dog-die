@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/project-five/./static/css/main.2db4d1cf.chunk.css",
-    "main.js": "/project-five/./static/js/main.835c33bb.chunk.js",
-    "main.js.map": "/project-five/./static/js/main.835c33bb.chunk.js.map",
-    "runtime~main.js": "/project-five/./static/js/runtime~main.459b389a.js",
-    "runtime~main.js.map": "/project-five/./static/js/runtime~main.459b389a.js.map",
-    "static/js/2.076809b5.chunk.js": "/project-five/./static/js/2.076809b5.chunk.js",
-    "static/js/2.076809b5.chunk.js.map": "/project-five/./static/js/2.076809b5.chunk.js.map",
-    "index.html": "/project-five/./index.html",
-    "precache-manifest.e27ae8b68f18d492622566ccd49a7cd6.js": "/project-five/./precache-manifest.e27ae8b68f18d492622566ccd49a7cd6.js",
-    "service-worker.js": "/project-five/./service-worker.js",
-    "static/css/main.2db4d1cf.chunk.css.map": "/project-five/./static/css/main.2db4d1cf.chunk.css.map",
-    "static/media/img-1.jpg": "/project-five/./static/media/img-1.29d7d591.jpg",
-    "static/media/lifeguard-stamp.jpg": "/project-five/./static/media/lifeguard-stamp.0018d617.jpg",
-    "static/media/main-dog.png": "/project-five/./static/media/main-dog.5610defc.png",
-    "static/media/movie-icon.png": "/project-five/./static/media/movie-icon.2837dbf3.png"
+    "main.css": "/does-the-dog-die/static/css/main.c3bb9cda.chunk.css",
+    "main.js": "/does-the-dog-die/static/js/main.ae2465d3.chunk.js",
+    "main.js.map": "/does-the-dog-die/static/js/main.ae2465d3.chunk.js.map",
+    "runtime~main.js": "/does-the-dog-die/static/js/runtime~main.9f3da749.js",
+    "runtime~main.js.map": "/does-the-dog-die/static/js/runtime~main.9f3da749.js.map",
+    "static/js/2.579831fc.chunk.js": "/does-the-dog-die/static/js/2.579831fc.chunk.js",
+    "static/js/2.579831fc.chunk.js.map": "/does-the-dog-die/static/js/2.579831fc.chunk.js.map",
+    "index.html": "/does-the-dog-die/index.html",
+    "precache-manifest.a1fcb9db59cc45e780f66e98e25573a9.js": "/does-the-dog-die/precache-manifest.a1fcb9db59cc45e780f66e98e25573a9.js",
+    "service-worker.js": "/does-the-dog-die/service-worker.js",
+    "static/css/main.c3bb9cda.chunk.css.map": "/does-the-dog-die/static/css/main.c3bb9cda.chunk.css.map",
+    "static/media/App.css": "/does-the-dog-die/static/media/portraitscript-regular-webfont.b0c9f306.woff",
+    "static/media/dog-1.jpg": "/does-the-dog-die/static/media/dog-1.10a0a721.jpg"
   }
 }
